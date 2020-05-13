@@ -1,4 +1,4 @@
-#Coursera: Algorithmic Toolbox
+<h1>Coursera: Algorithmic Toolbox</h1>
 
 This repository contains all solutions for the course Algorithmic Toolbox offered on Coursera. The assignment solutions are in C++.
 
@@ -8,7 +8,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
     Sum of Two Digits
     Maximum Pairwise Product
 
-#Week 2- Algorithmic Warm-up (PDF)
+<h2>Week 2- Algorithmic Warm-up (PDF)</h2>
 
     Fibonacci Number
     Last Digit of a Large Fibonacci Number
@@ -19,7 +19,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
     Last Digit of the Sum of Fibonacci Numbers Again
     Last Digit of the Sum of Squares of Fibonacci Numbers
 
-#Week 3- Greedy Algorithms (PDF)
+<h2>Week 3- Greedy Algorithms (PDF)</h2>
 
     Money Change
     Maximum Value of the Loot (Fractional Knapsack)
@@ -28,7 +28,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
     Maximum Number of Prizes (Different Summands)
     Maximum Salary (Largest Number)
 
-#Week 4- Divide and Conquer (PDF)
+<h2>Week 4- Divide and Conquer (PDF)</h2>
 
     Binary Search
     Majority Element
@@ -37,7 +37,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
     Organizing a Lottery
     Closest Points
 
-#Week 5- Dynamic Programming 1 (PDF)
+<h2>Week 5- Dynamic Programming 1 (PDF)</h2>
 
     Money Change Again
     Primitive Calculator
@@ -45,7 +45,7 @@ Disclaimer: The below solutions are for reference only. Please design and implem
     Longest Common Subsequence of Two Sequence
     Longest Common Subsequence of Three Sequence
 
-#Week 6- Dynamic Programming 2 (PDF)
+<h2>Week 6- Dynamic Programming 2 (PDF)</h2>
 
     Maximum Amount of Gold
     Partitioning Souvenirs
