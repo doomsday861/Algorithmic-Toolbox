@@ -3,7 +3,7 @@
 This repository contains all solutions for the course Algorithmic Toolbox offered on Coursera. The assignment solutions are in C++.
 
 Disclaimer: The below solutions are for reference only. Please design and implement your own algorithms to pass the course.
-#Week 1- Programming Challenges (PDF)
+<h2>Week 1- Programming Challenges (PDF)</h2>
 
     Sum of Two Digits
     Maximum Pairwise Product
